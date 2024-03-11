@@ -1,0 +1,2 @@
+C:\Users\opilane\Downloads\BitCoinApp-main\BitCoinApp-main\BitCoinApp\obj\Debug\BitCoinApp.csproj.AssemblyReference.cache
+C:\Users\opilane\Desktop\BitCoinApp-main\BitCoinApp\obj\Debug\BitCoinApp.csproj.AssemblyReference.cache
